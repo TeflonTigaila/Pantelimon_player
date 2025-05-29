@@ -1,0 +1,15 @@
+# ninja log v6
+1	350	1747928974968825417	PLAYER_autogen/timestamp	c18334f7f529c52c
+1	350	1747928974968825417	PLAYER_autogen/mocs_compilation.cpp	c18334f7f529c52c
+1	350	1747928974968825417	/home/pantelimon/PRJ/PLAYER/build/Desktop-Debug/PLAYER_autogen/timestamp	c18334f7f529c52c
+1	350	1747928974968825417	/home/pantelimon/PRJ/PLAYER/build/Desktop-Debug/PLAYER_autogen/mocs_compilation.cpp	c18334f7f529c52c
+352	1993	1747928974978825404	CMakeFiles/PLAYER.dir/PLAYER_autogen/mocs_compilation.cpp.o	2ea7e644a01f34a4
+352	1993	1747928974980109848	CMakeFiles/PLAYER.dir/main.cpp.o	24b015734e7b318a
+352	2016	1747928974980288145	CMakeFiles/PLAYER.dir/player.cpp.o	ca9ced6493a73132
+2016	2285	1747928976642823160	PLAYER	c7583c0aef3af55b
+3	35	1747930344554795420	PLAYER_autogen/timestamp	c18334f7f529c52c
+3	35	1747930344554795420	PLAYER_autogen/mocs_compilation.cpp	c18334f7f529c52c
+3	35	1747930344554795420	/home/pantelimon/PRJ/PLAYER/build/Desktop-Debug/PLAYER_autogen/timestamp	c18334f7f529c52c
+3	35	1747930344554795420	/home/pantelimon/PRJ/PLAYER/build/Desktop-Debug/PLAYER_autogen/mocs_compilation.cpp	c18334f7f529c52c
+35	1824	1747930344586795369	CMakeFiles/PLAYER.dir/player.cpp.o	ca9ced6493a73132
+1824	2098	1747930346375792487	PLAYER	c7583c0aef3af55b

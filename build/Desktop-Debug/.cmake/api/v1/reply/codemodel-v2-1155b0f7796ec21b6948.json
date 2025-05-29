@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-cbdfe621f80d08c8ad72.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PLAYER",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PLAYER::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PLAYER-Debug-679fa57bbdcae80a58c7.json",
+					"name" : "PLAYER",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PLAYER_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PLAYER_autogen-Debug-9478465b5e28fe67086e.json",
+					"name" : "PLAYER_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PLAYER_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PLAYER_autogen_timestamp_deps-Debug-287e03c8a21893f1c415.json",
+					"name" : "PLAYER_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/pantelimon/PRJ/PLAYER/build/Desktop-Debug",
+		"source" : "/home/pantelimon/PRJ/PLAYER"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
